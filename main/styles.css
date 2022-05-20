@@ -38,6 +38,59 @@ body {
     display: none;
 }
 
+.anguish {
+    display: none;
+}
+
+.fear {
+    display: none;
+}
+
+.sad {
+    display: none;
+}
+
+.cry {
+    display: none;
+}
+
+.loudCry {
+    display: none;
+}
+
+.scream {
+    display: none;
+}
+
+.wink {
+    display: none;
+}
+
+.heart {
+    display: none;
+}
+
+.lick {
+    display: none;
+}
+
+.zanny {
+    display: none;
+}
+
+.hug {
+    display: none;
+}
+
+.cold {
+    display: none;
+}
+
+.hot {
+    display: none;
+}
+
+
 .active {
     display: block;
 }
